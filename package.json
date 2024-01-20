@@ -1,0 +1,25 @@
+{
+  "name": "@retore404/sandbox",
+  "version": "1.0.0",
+  "description": "sandbox",
+  "main": "./dist/index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "retore",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}
