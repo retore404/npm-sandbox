@@ -8,7 +8,7 @@ docker exec -it npm-sandbox /bin/bash
 # How to build
 
 ```
-npx tsc
+npm run build
 ```
 
 # How to publish
